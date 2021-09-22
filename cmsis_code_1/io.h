@@ -7,6 +7,7 @@
 
 void clear_data_bit(uint32_t color);
 void set_data_bit(uint32_t color);
+void toggle_data_bit();
 void init_port_f(void);
 
 #endif
